@@ -1,11 +1,9 @@
 package org.firstinspires.ftc.teamcode;
 
-import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.util.ElapsedTime;
-import com.qualcomm.robotcore.util.Range;
 
 @TeleOp(name="Example: Iterative OpMode Test", group="Iterative Opmode")
 
@@ -20,7 +18,7 @@ public class ExampleIterativeDrive extends OpMode
      */
     @Override
     public void init() {
-        telemetry.addData("Status", "Initialized");
+        telemetry.addData("Status:", "Initialized");
 
         leftDrive  = hardwareMap.get(DcMotor.class, "leftDrive");
         rightDrive = hardwareMap.get(DcMotor.class, "rightDrive");
@@ -31,7 +29,7 @@ public class ExampleIterativeDrive extends OpMode
         leftDrive.setDirection(DcMotor.Direction.FORWARD);
         rightDrive.setDirection(DcMotor.Direction.REVERSE);
 
-        telemetry.addData("Status", "Initialized");
+        telemetry.addData("Status:", "Initialized");
     }
 
     /*
@@ -43,7 +41,7 @@ public class ExampleIterativeDrive extends OpMode
         leftDrive.setPower(0.0);
         rightDrive.setPower(0.0);
 
-        telemetry.addData("Status", "Awaiting Start");
+        telemetry.addData("Status:", "Awaiting Start");
     }
 
     /*
@@ -64,8 +62,8 @@ public class ExampleIterativeDrive extends OpMode
         rightDrive.setPower(-gamepad1.right_stick_y);
 
         // Show the elapsed game time and wheel power.
-        telemetry.addData("Status", "Run Time: " + runtime.toString());
-        telemetry.addData("Motors", "left (%.2f), right (%.2f)", -gamepad1.left_stick_y, -gamepad1.right_stick_y);
+        telemetry.addData("Status:", "Run Time: " + runtime.toString());
+        telemetry.addData("Motors:", "left (%.2f), right (%.2f)", -gamepad1.left_stick_y, -gamepad1.right_stick_y);
     }
 
     /*
@@ -77,6 +75,6 @@ public class ExampleIterativeDrive extends OpMode
         leftDrive.setPower(0.0);
         rightDrive.setPower(0.0);
 
-        telemetry.addData("Status", "Stopped");
+        telemetry.addData("Status:", "Stopped");
     }
 }
