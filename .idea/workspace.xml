@@ -2,932 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a6e7b9-20e5-4ad8-9c37-dd973337d9a9" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/android_android_23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/Team6188.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build.release.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/buildConfig/androidTest/debug/com/qualcomm/ftcrobotcontroller/test/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/buildConfig/debug/org/firstinspires/ftc/team6188/BuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/androidTest/debug/com/qualcomm/ftcrobotcontroller/test/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/com/google/blocks/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/com/qualcomm/WirelessP2p/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/com/qualcomm/analyticsmodule/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/com/qualcomm/ftccommon/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/com/qualcomm/ftcrobotcontroller/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/com/qualcomm/hardware/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/com/qualcomm/robotcore/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/org/firstinspires/ftc/team6188/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/org/firstinspires/inspection/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/Buildings.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/Buildings.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/CzechWolf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/FTC_2016-17.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/FTC_2016-17.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/FtcBlocks.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/FtcBlocksProjects.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/FtcSounds.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/RelicVuMark.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/RelicVuMark.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/RobotConfig.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/RobotConfigDescriptionGenerate.xslt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/RobotConfigTaxonomy.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/RobotConfigTaxonomy.xsd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/StonesAndChips.dat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/StonesAndChips.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/TextureTeapotBrass.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/blockly_compressed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/blocks_compressed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/javascript_compressed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/1x1.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/click.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/click.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/click.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/delete.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/delete.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/delete.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/disconnect.mp3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/disconnect.ogg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/disconnect.wav" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/handclosed.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/handdelete.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/handopen.cur" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/quote0.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/quote1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/media/sprites.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blockly/msg/messages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/acceleration.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/acceleration_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/analog_input.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/analog_output.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/android_accelerometer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/android_gyroscope.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/android_orientation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/android_sound_pool.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/android_text_to_speech.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/angular_velocity.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/bno055imu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/bno055imu_parameters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/clipboard_util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/color.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/color_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/compass_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/cr_servo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/dbg_log.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/dc_motor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/digital_channel.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/elapsed_time.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/elapsed_time2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/gamepad.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/gyro_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/hardware_util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/ir_seeker_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/led.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/light_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/linear_op_mode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/lynx_i2c_color_range_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/magnetic_flux.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/matrix_f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/misc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/mr_i2c_compass_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/mr_i2c_range_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/navigation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/open_gl_matrix.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/optical_distance_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/orientation.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/position.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/project_util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/quaternion.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/range.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/BasicPOVDrive.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/BasicTankDrive.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/ConceptDeviceInteraction.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/ConceptSmoothServo.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/ConceptTextToSpeech.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/ConceptVuMarkDetection.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/SensorDigitalTouch.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/SensorIMU.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/SensorREVColorDistance.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/samples/default.blk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/servo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/servo_controller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/sound_util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/system.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/telemetry.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/temperature.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/toolbox_util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/touch_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/ultrasonic_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/vars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/vector_f.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/velocity.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/voltage_sensor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/vuforia.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/vuforia_localizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/vuforia_localizer_parameters.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/vuforia_trackable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/vuforia_trackable_default_listener.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/blocks/vuforia_trackables.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/connection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/FtcBlocks.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/FtcBlocksProjects.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/FtcSounds.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/SourceCodePro.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/bootstrap-theme.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/bootstrap.min.css.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/connection.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/core.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/frame.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/help.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/java/onbotjava.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/css/manage.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/SourceCodePro.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/SourceCodeProExt.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/fonts/glyphicons-halflings-regular.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftc.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcAccelerationSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcAnalogInput.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcAnalogOutput.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcCRServo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcColorSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcCompassSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcDcMotor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcDcMotorController.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcDeviceInterfaceModule.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcDigitalChannel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcElapsedTime.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcGamepad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcGyroSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcI2cDevice.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcI2cDeviceReader.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcI2cDeviceSynch.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcIrSeekerSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcLED.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcLegacyModule.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcLightSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcLinearOpMode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcOpMode.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcOpticalDistanceSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcPwmOutput.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcRobotController.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcServo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcServoController.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcTouchSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcTouchSensorMultiplexer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcUltrasonicSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/images/ftcVoltageSensor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/Blocks-classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/FtcCommon-classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/Hardware-classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/Inspection-classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/RobotCore-classes.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/android.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/css/angular-resizable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/css/jquery.contextmenu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/css/main.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/css/perfect-scrollbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/css/tether.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/css/tether.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/editor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/ace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/angular-messages.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/BufferedTokenStream.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/CharStreams.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/CommonTokenFactory.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/CommonTokenStream.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/FileStream.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/InputStream.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/IntervalSet.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/LL1Analyzer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/Lexer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/Parser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/ParserRuleContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/PredictionContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/Recognizer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/RuleContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/Token.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/Utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/ATN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/ATNConfig.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/ATNConfigSet.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/ATNDeserializationOptions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/ATNDeserializer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/ATNSimulator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/ATNState.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/ATNType.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/LexerATNSimulator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/LexerAction.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/LexerActionExecutor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/ParserATNSimulator.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/PredictionMode.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/SemanticContext.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/Transition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/atn/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/dfa/DFA.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/dfa/DFASerializer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/dfa/DFAState.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/dfa/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/error/DiagnosticErrorListener.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/error/ErrorListener.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/error/ErrorStrategy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/error/Errors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/error/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/polyfills/codepointat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/polyfills/fromcodepoint.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/tree/Tree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/tree/Trees.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/antlr4/tree/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/bootstrap-tree.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/es5-shim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/es6-shim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/ext-language_tools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/ext-spellcheck.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/ext-whitespace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/flowtype.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/ftclangtools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/java/JavaLexer.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/java/JavaListener.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/java/JavaParser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/java/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/jquery.contextmenu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/jquery.position.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/keybinding-emacs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/keybinding-vim.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/mode-java.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/mode-markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/mode-text.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/perfect-scrollbar.jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/polyfills.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/require.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/snippets/java.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/snippets/markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/snippets/text.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/tether.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/theme-chaos.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/theme-chrome.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/theme-github.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/theme-monokai.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/theme-solarized-dark.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/theme-solarized-light.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/toe.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/ui-ace.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/worker-base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/worker-java.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/js/worker-javascript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/BasicOpMode_Iterative" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/BasicOpMode_Linear" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/BlankIterativeOpMode" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/BlankLinearOpMode" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptCompassCalibration" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptDIMAsIndicator" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptI2cAddressChange" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptNullOp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptRampMotorSpeed" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptRegisterOpModes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptScanServo" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptTelemetry" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptVuMarkIdentification" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/ConceptVuforiaNavigation" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/HardwareK9bot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/HardwarePushbot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/HardwarePushbotMatrix" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/K9botTeleopTank_Linear" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/PushbotAutoDriveByEncoder_Linear" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/PushbotAutoDriveByGyro_Linear" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/PushbotAutoDriveByTime_Linear" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/PushbotAutoDriveToLine_Linear" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/PushbotTeleopPOV_Linear" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/PushbotTeleopTank_Iterative" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorAdafruitRGB" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorBNO055IMU" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorBNO055IMUCalibration" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorColor" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorDIO" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorDigitalTouch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorHTColor" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorHTGyro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorKLNavxMicro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorLEGOLight" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorLEGOTouch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorMRColor" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorMRCompass" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorMRGyro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorMRIrSeeker" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorMROpticalDistance" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorMRRangeSensor" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorREVColorDistance" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/SensorREVLaserDistance" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/TemplateOpMode_Iterative" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/java/templates/TemplateOpMode_Linear" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/js/URI.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/js/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/js/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/js/jquery-3.1.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/js/less.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/js/npm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/js/util.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/manage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/android_accelerometer.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/android_gyroscope.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/android_orientation.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/android_sound_pool.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/android_text_to_speech.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/bno055imu_parameters.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/color.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/dbg_log.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/elapsed_time.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/gamepad.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/images.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/linear_op_mode.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/navigation.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/range.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/assets/debug/toolbox/telemetry.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/androidTest/debug/multi-v2/debug.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v11.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v14.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/androidTest/debug/multi-v2/values-w820dp-v13.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/androidTest/debug/multi-v2/values.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/androidTest/debug/single/debug.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/single/debug.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/google/blocks/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/WirelessP2p/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/WirelessP2p/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/WirelessP2p/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/WirelessP2p/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/analyticsmodule/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/analyticsmodule/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/analyticsmodule/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/analyticsmodule/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftccommon/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/ftcrobotcontroller/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/hardware/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/com/qualcomm/robotcore/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/ExampleIterativeDrive.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R$xml.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/ftc/team6188/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$array.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$menu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$raw.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/classes/debug/org/firstinspires/inspection/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/compileDebugAidl/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/3RBQVhuZAEKmgbbVdevMTFc5m9k=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/F3g3auG6vKDSmaui5Hsd0gDsdg0=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/IAmO4yuabm5jRXqlNVavBZQSxio=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/J954TfqICvxMkVjf4reV3JTYSdY=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/JF0HxRyyRoRW2WdCr6CBRrBoQ6o=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/P+nAFimg4dLEmRrFbDyDzuPXPss=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/UKNbu7t_MVlKP+W+JPUWjoZkin8=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YS9HdNIUahRoMVUrH2NAX_vcD0A=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/YVmBFGDPVVBFBpt83+eoGN0hFjE=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/c5kXq+nn_V4CuwPnyvt+wmfbhjY=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/d+ZZYH6DMHR7Rwj+4E7PdyZpDow=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/nCzW1eQOP9ciKyvN_JmX3Drny6U=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/nuN4vcFu+aUDvpJt5EL3dkG8XwU=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/3RBQVhuZAEKmgbbVdevMTFc5m9k=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/F3g3auG6vKDSmaui5Hsd0gDsdg0=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/IAmO4yuabm5jRXqlNVavBZQSxio=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/J954TfqICvxMkVjf4reV3JTYSdY=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/JF0HxRyyRoRW2WdCr6CBRrBoQ6o=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/P+nAFimg4dLEmRrFbDyDzuPXPss=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/UKNbu7t_MVlKP+W+JPUWjoZkin8=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/YS9HdNIUahRoMVUrH2NAX_vcD0A=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/YVmBFGDPVVBFBpt83+eoGN0hFjE=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/c5kXq+nn_V4CuwPnyvt+wmfbhjY=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/d+ZZYH6DMHR7Rwj+4E7PdyZpDow=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/nCzW1eQOP9ciKyvN_JmX3Drny6U=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/nuN4vcFu+aUDvpJt5EL3dkG8XwU=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/packageDebug/debug/zip-cache/M0dKVg3ZJJ5WTkiuNl5GJjuBsg4=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/packageDebug/debug/zip-cache/taZjHnNaQj79w4gI5BTI6ESHtTY=" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/javaPrecompile/debug/annotationProcessors.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/Analytics-release.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/Blocks-release-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/Blocks-release.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/FtcCommon-release-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/FtcCommon-release.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/Hardware-release-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/Hardware-release.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/Inspection-release-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/Inspection-release.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/RobotCore-release-sources.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/RobotCore-release.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/Vuforia.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/WirelessP2p-release.aar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/armeabi-v7a/libVuforia.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/jniLibs/debug/ftc.debug.keystore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/manifest/androidTest/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/manifests/density/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/manifests/full/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/manifests/instant-run/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/androidTest/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/debug/resources-debug.ap_" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_button_shape.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_menu.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_robotcontroller.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable_black_border.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable_button_shape.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable_feedback_shape_orange.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable_icon_menu.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/drawable_icon_robotcontroller.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_about.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_blocks.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_config_wifi_direct.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_configure_from_template.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_configuration.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_controller.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_lynx_address_update.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_lynx_fw_update.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_wifi_channel_selector.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_wifi_remembered_groups.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_generic_settings.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_inspection.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_load.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_program_and_manage.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_programming_mode.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_swap_usb_devices.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_activity_view_logs.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_analog_input_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_analog_inputs.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_analog_output_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_analog_outputs.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_banner_parent.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_button_list.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_color_list_preference_line_item.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_device_interface_module.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_digital_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_digital_device_lynx.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_digital_devices.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_feedback.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_file_info.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_gray_line.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_header.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_i2c_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_i2cs.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_info_button.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_item_list_parent.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_legacy.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_loading_indicator_overlay.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_lynx_module.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_lynx_module_configure_address.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_lynx_module_configure_address_spin_item.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_lynx_usb_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_matrices.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_matrix_devices.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_motor.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_motor_controller_banner.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_motor_list.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_port_attached_row.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_pwm_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_pwms.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_red_line.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_servo.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_servo_controller_banner.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_servo_list.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_simple_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/layout_template_info.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/menu_ftc_robot_controller.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/menu_main_menu.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/menu_menu_server.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_chimeconnect.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_chimedisconnect.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_color_fragment_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_cube_mesh_fragment_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_cube_mesh_vertex_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_errormessage.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_nxtstartupsound.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_simple_vertex_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_texture_fragment_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_texture_vertex_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/raw_warningmessage.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/values-v11_values-v11.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/values-v14_values-v14.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_advanced_rc_settings.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_app_settings.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_device_filter.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_k9legacybot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_k9usbbot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_maxmodules.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_pushbot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_pushbotsens.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_rev_scoot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/androidTest/debug/xml_squarebot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable-hdpi-v4_button_shape.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable-hdpi-v4_ic_launcher.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable-mdpi-v4_ic_launcher.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ic_launcher.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_menu.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable-xhdpi-v4_icon_robotcontroller.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_launcher.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable_black_border.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable_button_shape.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable_feedback_shape_orange.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable_icon_menu.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/drawable_icon_robotcontroller.png.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_about.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_blocks.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_config_wifi_direct.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_configure_from_template.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_ftc_configuration.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_ftc_controller.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_address_update.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_ftc_lynx_fw_update.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_channel_selector.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_ftc_wifi_remembered_groups.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_generic_settings.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_inspection.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_load.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_program_and_manage.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_programming_mode.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_swap_usb_devices.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_activity_view_logs.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_analog_input_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_analog_inputs.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_analog_output_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_analog_outputs.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_banner_parent.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_button_list.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_color_list_preference_line_item.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_device_interface_module.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_digital_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_digital_device_lynx.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_digital_devices.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_feedback.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_file_info.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_gray_line.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_header.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_i2c_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_i2cs.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_info_button.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_item_list_parent.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_legacy.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_loading_indicator_overlay.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_lynx_module.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_lynx_module_configure_address.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_lynx_module_configure_address_spin_item.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_lynx_usb_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_matrices.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_matrix_devices.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_motor.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_motor_controller_banner.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_motor_list.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_port_attached_row.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_pwm_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_pwms.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_red_line.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_servo.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_servo_controller_banner.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_servo_list.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_simple_device.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/layout_template_info.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/menu_ftc_robot_controller.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/menu_main_menu.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/menu_menu_server.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_chimeconnect.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_chimedisconnect.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_color_fragment_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_cube_mesh_fragment_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_cube_mesh_vertex_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_errormessage.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_nxtstartupsound.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_simple_vertex_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_texture_fragment_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_texture_vertex_shader.glsl.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/raw_warningmessage.wav.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_advanced_rc_settings.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_app_settings.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_device_filter.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_k9legacybot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_k9usbbot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_maxmodules.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_pushbot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_pushbotsens.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_rev_scoot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/merged/debug/xml_squarebot.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/splits-support/androidTest/debug/split-list.gson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/splits-support/debug/split-list.gson" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/symbols/debug/R.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/10.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/11.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/13.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/14.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/15.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$array.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$menu.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$raw.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R$xml.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/google/blocks/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/WirelessP2p/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/WirelessP2p/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/WirelessP2p/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/WirelessP2p/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/analyticsmodule/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/analyticsmodule/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/analyticsmodule/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/analyticsmodule/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$array.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$menu.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$raw.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R$xml.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftccommon/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$array.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$menu.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$raw.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R$xml.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/ftcrobotcontroller/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$array.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$raw.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/hardware/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$array.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$raw.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/com/qualcomm/robotcore/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/BuildConfig.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/ExampleIterativeDrive.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$array.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$menu.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$raw.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R$xml.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/team6188/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$array.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$attr.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$color.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$dimen.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$drawable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$id.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$layout.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$menu.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$raw.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$string.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$style.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R$styleable.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/inspection/R.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/8.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi-v7a/libRobotCore.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/mergeJniLibs/debug/0/lib/armeabi-v7a/libVuforia.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/outputs/apk/debug/Team6188-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/outputs/apk/debug/output.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/src/main/java/org/firstinspires/ftc/team6188/ExampleIterativeDrive.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/src/main/java/org/firstinspires/ftc/team6188/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Team6188/src/main/res/values/strings.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/zip-cache/BKSrquukpk2rIx++AxyJ_fNFhz0=" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/zip-cache/BKSrquukpk2rIx++AxyJ_fNFhz0=" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/12.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/12.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/13.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/13.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/14.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/14.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/15.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/15.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/16.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/16.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/mergeJavaRes/debug/0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/outputs/apk/debug/TeamCode-debug.apk" afterPath="$PROJECT_DIR$/TeamCode/build/outputs/apk/debug/TeamCode-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" afterPath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/TeamCode.iml" afterPath="$PROJECT_DIR$/TeamCode/TeamCode.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build.gradle" afterPath="$PROJECT_DIR$/TeamCode/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ExampleIterativeDrive.java" afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ExampleIterativeDrive.java" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -955,8 +34,8 @@
       <file leaf-file-name="ExampleIterativeDrive.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ExampleIterativeDrive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="2013">
+              <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -965,6 +44,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -3611,8 +2697,9 @@
         <option value="$PROJECT_DIR$/TeamCode/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Team6188/src/main/java/org/firstinspires/ftc/team6188/readme.md" />
         <option value="$PROJECT_DIR$/Team6188/src/main/java/org/firstinspires/ftc/team6188/ExampleIterativeDrive.java" />
-        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ExampleIterativeDrive.java" />
         <option value="$PROJECT_DIR$/settings.gradle" />
+        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/DriveThread.java" />
+        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ExampleIterativeDrive.java" />
       </list>
     </option>
   </component>
@@ -3640,6 +2727,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
@@ -3653,10 +2742,26 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ftc_app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="TeamCode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="teamcode" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -3754,7 +2859,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518500911322" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518627978531" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -3802,7 +2907,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518500911322" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518627978531" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3834,6 +2939,27 @@
         </option>
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -3964,7 +3090,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518500911323" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518627978533" />
       </method>
     </configuration>
     <list size="1">
@@ -4022,8 +3148,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4721772" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -4035,8 +3161,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -4056,6 +3182,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ExampleIterativeDrive.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ExampleIterativeDrive.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
@@ -4068,7 +3204,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4154,28 +3289,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Team6188/build.gradle" />
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="-2376">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Team6188/src/main/AndroidManifest.xml" />
     <entry file="file://$PROJECT_DIR$/Team6188/src/main/java/org/firstinspires/ftc/team6188/readme.md" />
     <entry file="file://$PROJECT_DIR$/TeamCode/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4184,14 +3303,45 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="33">
           <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/RobotCore-release-sources.jar!/com/qualcomm/robotcore/eventloop/opmode/OpMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2361">
+          <caret line="95" column="23" lean-forward="false" selection-start-line="95" selection-start-column="23" selection-end-line="95" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/DriveThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="-2399">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ExampleIterativeDrive.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="2013">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

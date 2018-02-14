@@ -5,7 +5,7 @@ import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
-@TeleOp(name="Example: Iterative OpMode Test", group="Iterative Opmode")
+@TeleOp(name="Example: Iterative OpMode", group="Iterative Opmode")
 
 public class ExampleIterativeDrive extends OpMode
 {
@@ -61,7 +61,7 @@ public class ExampleIterativeDrive extends OpMode
         leftDrive.setPower(-gamepad1.left_stick_y);
         rightDrive.setPower(-gamepad1.right_stick_y);
 
-        // Show the elapsed game time and wheel power.
+
         telemetry.addData("Status:", "Run Time: " + runtime.toString());
         telemetry.addData("Motors:", "left (%.2f), right (%.2f)", -gamepad1.left_stick_y, -gamepad1.right_stick_y);
     }
