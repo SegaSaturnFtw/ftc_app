@@ -8,7 +8,7 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 
 @TeleOp(name="Science Ring Bot V3.0", group="Iterative Opmode")
 
-public class ExampleIterativeDrive extends OpMode
+public class ClawBotTeleOp extends OpMode
 {
     private ElapsedTime runtime = new ElapsedTime();
     private DcMotor leftDrive = null;
