@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
-@TeleOp(name="Science Ring Bot V3.0", group="Iterative Opmode")
+@TeleOp(name="Science Ring Bot V3.2", group="Iterative Opmode")
 
 public class ClawBotTeleOp extends OpMode
 {
@@ -62,8 +62,26 @@ public class ClawBotTeleOp extends OpMode
         rightDrive.setPower(-gamepad1.right_stick_y);
         armMotor.setPower(((gamepad1.right_trigger) - (gamepad1.left_trigger))/4);
 
-        try {handServo.setPosition(gamepad1.left_bumper ? handServo.getPosition() + 0.2 : handServo.getPosition() - 0.2);}
+        try {handServo.setPosition(gamepad1.left_bumper ? 1.0 : (gamepad1.right_bumper ? 0.05 : handServo.getPosition()));}
         catch (Exception ignored){handServo.setPosition(handServo.getPosition());}
+
+        try
+        {
+            if (gamepad2.a)
+            {
+                leftDrive.setPower(0.0);
+                rightDrive.setPower(0.0);
+            }
+
+            if (gamepad2.y)
+            {
+                armMotor.setPower(0.0);
+            }
+
+            try {handServo.setPosition(gamepad2.left_bumper ? 1.0 : (gamepad2.right_bumper ? 0.05 : handServo.getPosition()));}
+            catch (Exception ignored){handServo.setPosition(handServo.getPosition());}
+        }
+        catch (Exception ignored) {}
 
         telemetry.addData("Status:", "Run Time: " + runtime.toString());
         telemetry.addData("Motors:", "left (%.2f), right (%.2f)", leftDrive.getPower(), rightDrive.getPower());
