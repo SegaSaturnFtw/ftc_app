@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.Range;
 
-@TeleOp(name="TriBot Iterative V3.0", group="Iterative Opmode")
+@TeleOp(name="TriBot Iterative V3.3", group="Iterative Opmode")
 
 public class TriBotTeleOp extends OpMode
 {
@@ -16,14 +16,14 @@ public class TriBotTeleOp extends OpMode
     @Override
     public void init()
     {
-        leftDrive = hardwareMap.get(DcMotor.class, "back drive");
-        rightDrive = hardwareMap.get(DcMotor.class, "left drive");
-        backDrive = hardwareMap.get(DcMotor.class, "right drive");
+        leftDrive = hardwareMap.get(DcMotor.class, "left drive");
+        rightDrive = hardwareMap.get(DcMotor.class, "right drive");
+        backDrive = hardwareMap.get(DcMotor.class, "back drive");
         armServo = hardwareMap.get(Servo.class, "claw arm");
 
-        leftDrive.setDirection(DcMotor.Direction.REVERSE);
-        rightDrive.setDirection(DcMotor.Direction.REVERSE);
-        backDrive.setDirection(DcMotor.Direction.REVERSE);
+        leftDrive.setDirection(DcMotor.Direction.FORWARD);
+        rightDrive.setDirection(DcMotor.Direction.FORWARD);
+        backDrive.setDirection(DcMotor.Direction.FORWARD);
 
         leftDrive.setZeroPowerBehavior(DcMotor.ZeroPowerBehavior.BRAKE);
         rightDrive.setZeroPowerBehavior(DcMotor.ZeroPowerBehavior.BRAKE);
@@ -57,7 +57,7 @@ public class TriBotTeleOp extends OpMode
     {
         double axial = Range.clip((gamepad1.left_stick_y/4), -1, 1);
         double lateral = Range.clip((-gamepad1.left_stick_x/4), -1, 1);
-        double yaw = Range.clip((gamepad1.right_stick_x/4), -1, 1);
+        double yaw = Range.clip((-gamepad1.right_stick_x/4), -1, 1);
 
         double back = yaw + lateral;
         double left = yaw - axial - lateral * 0.5;
