@@ -11,11 +11,11 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 @Disabled
 public class ClawTeleOpMain extends OpMode
 {
-    private ElapsedTime runtime = new ElapsedTime();
-    private DcMotor leftDrive = null;
-    private DcMotor rightDrive = null;
-    private DcMotor armMotor = null;
-    private Servo handServo = null;
+    ElapsedTime runtime = new ElapsedTime();
+    DcMotor leftDrive = null;
+    DcMotor rightDrive = null;
+    DcMotor armMotor = null;
+    Servo handServo = null;
 
     @Override
     public void init()

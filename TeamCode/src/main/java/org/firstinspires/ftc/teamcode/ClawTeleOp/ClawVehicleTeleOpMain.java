@@ -8,12 +8,6 @@ import com.qualcomm.robotcore.util.ElapsedTime;
 @TeleOp(name="Science Ring Bot Vehicle V1.0", group="Iterative OpMode")
 public class ClawVehicleTeleOpMain extends ClawTeleOpMain
 {
-    private ElapsedTime runtime = new ElapsedTime();
-    private DcMotor leftDrive = null;
-    private DcMotor rightDrive = null;
-    private DcMotor armMotor = null;
-    private Servo handServo = null;
-
     @Override
     public void loop()
     {
