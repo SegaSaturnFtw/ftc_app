@@ -1,13 +1,12 @@
-package org.firstinspires.ftc.teamcode;
+package org.firstinspires.ftc.teamcode.ClawTeleOp;
 
-import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
-@TeleOp(name="Science Ring Bot Vehicle V1.0", group="Iterative OpMode")
-public class ClawVehicleTeleOp extends OpMode
+@TeleOp(name="Science Ring Bot Arcade V1.0", group="Iterative TeleOp")
+public class ClawArcadeTeleOpMain extends ClawTeleOpMain
 {
     private ElapsedTime runtime = new ElapsedTime();
     private DcMotor leftDrive = null;
@@ -16,44 +15,9 @@ public class ClawVehicleTeleOp extends OpMode
     private Servo handServo = null;
 
     @Override
-    public void init()
-    {
-        telemetry.addData("Status:", "Initialized");
-
-        leftDrive = hardwareMap.get(DcMotor.class, "leftDrive");
-        rightDrive = hardwareMap.get(DcMotor.class, "rightDrive");
-        armMotor = hardwareMap.get(DcMotor.class, "armMotor");
-        handServo = hardwareMap.get(Servo.class, "clawServo");
-
-        leftDrive.setZeroPowerBehavior(DcMotor.ZeroPowerBehavior.BRAKE);
-        rightDrive.setZeroPowerBehavior(DcMotor.ZeroPowerBehavior.BRAKE);
-        armMotor.setZeroPowerBehavior(DcMotor.ZeroPowerBehavior.BRAKE);
-
-        leftDrive.setDirection(DcMotor.Direction.REVERSE);
-        rightDrive.setDirection(DcMotor.Direction.REVERSE);
-        armMotor.setDirection(DcMotor.Direction.FORWARD);
-        handServo.setDirection(Servo.Direction.FORWARD);
-
-        handServo.scaleRange(0.1, 1.0);
-
-        telemetry.addData("Status:", "Initialized");
-    }
-
-    @Override
-    public void init_loop()
-    {
-        leftDrive.setPower(0.0);
-        rightDrive.setPower(0.0);
-        armMotor.setPower(0.0);
-        handServo.setPosition(handServo.MAX_POSITION);
-
-        telemetry.addData("Status:", "Awaiting Start | Vehicle");
-    }
-
-    @Override
     public void loop()
     {
-        double power = gamepad1.right_trigger - gamepad1.left_trigger;
+        double power = gamepad1.left_stick_y;
 
         leftDrive.setPower(gamepad1.left_stick_x > 0 ? power : power * (1.0 - gamepad1.left_stick_x));
         rightDrive.setPower(gamepad1.left_stick_x < 0 ? power : power * (1.0 + gamepad1.left_stick_x));
@@ -83,16 +47,5 @@ public class ClawVehicleTeleOp extends OpMode
 
         try{telemetry.addData("P2 Status:", "Active: " + ((gamepad2.b) ? "Breaking" : "Passive"));}
         catch (Exception ignored){telemetry.addData("P2 Status:", "Disabled");}
-    }
-
-    @Override
-    public void stop()
-    {
-        leftDrive.setPower(0.0);
-        rightDrive.setPower(0.0);
-        armMotor.setPower(0.0);
-        handServo.setPosition(handServo.getPosition());
-
-        telemetry.addData("Status:", "Stopped");
     }
 }
