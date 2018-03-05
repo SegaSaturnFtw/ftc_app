@@ -77,6 +77,18 @@ public class TriBotTeleOp extends OpMode
 
         armServo.setPosition(gamepad1.dpad_up ? armServo.MAX_POSITION : (gamepad1.dpad_down ? armServo.MIN_POSITION : armServo.getPosition()));
 
+        try
+        {
+            if (gamepad2.b)
+            {
+                backDrive.setPower(0.0);
+                leftDrive.setPower(0.0);
+                rightDrive.setPower(0.0);
+                armServo.setPosition(armServo.MAX_POSITION);
+            }
+        }
+        catch (Exception ignored) {}
+
         telemetry.addData("Status:", "Nom-Nom-Nominal");
         telemetry.addData("Axes:", "Axial(%.2f), Lateral(%.2f), Yaw(%.2f)", axial, lateral, yaw);
         telemetry.addData("Wheels:", "Left(%.2f), Right(%.2f), Back(%.2f)", left, right, back);
@@ -89,7 +101,7 @@ public class TriBotTeleOp extends OpMode
         backDrive.setPower(0.0);
         leftDrive.setPower(0.0);
         rightDrive.setPower(0.0);
-        armServo.setPosition(armServo.getPosition());
+        armServo.setPosition(armServo.MAX_POSITION);
 
         telemetry.addData("Status", "Stopped");
     }
