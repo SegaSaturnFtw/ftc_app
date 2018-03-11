@@ -2,14 +2,306 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a6e7b9-20e5-4ad8-9c37-dd973337d9a9" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/mockable-android-23.v3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/androidTest/debug/com/qualcomm/ftcrobotcontroller/test/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/google/blocks/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/WirelessP2p/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/analyticsmodule/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/ftccommon/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/ftcrobotcontroller/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/ftcrobotcontroller/test/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/hardware/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/com/qualcomm/robotcore/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/androidTest/debug/org/firstinspires/inspection/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi-v2/debug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi-v2/values-w820dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/multi-v2/values.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/blame/res/androidTest/debug/single/debug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifest/androidTest/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/androidTest/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_button_shape.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_menu.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_robotcontroller.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable_black_border.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable_button_shape.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable_feedback_shape_orange.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable_icon_menu.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/drawable_icon_robotcontroller.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_about.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_blocks.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_config_wifi_direct.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_configure_from_template.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_configuration.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_controller.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_lynx_address_update.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_lynx_fw_update.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_wifi_channel_selector.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_wifi_remembered_groups.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_generic_settings.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_inspection.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_load.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_program_and_manage.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_programming_mode.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_swap_usb_devices.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_activity_view_logs.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_analog_input_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_analog_inputs.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_analog_output_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_analog_outputs.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_banner_parent.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_button_list.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_color_list_preference_line_item.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_device_interface_module.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_digital_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_digital_device_lynx.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_digital_devices.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_feedback.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_file_info.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_gray_line.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_header.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_i2c_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_i2cs.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_info_button.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_item_list_parent.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_legacy.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_loading_indicator_overlay.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_lynx_module.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_lynx_module_configure_address.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_lynx_module_configure_address_spin_item.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_lynx_usb_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_matrices.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_matrix_devices.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_motor.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_motor_controller_banner.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_motor_list.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_port_attached_row.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_pwm_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_pwms.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_red_line.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_servo.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_servo_controller_banner.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_servo_list.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_simple_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/layout_template_info.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu_ftc_robot_controller.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu_main_menu.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/menu_menu_server.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_chimeconnect.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_chimedisconnect.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_color_fragment_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_cube_mesh_fragment_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_cube_mesh_vertex_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_errormessage.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_nxtstartupsound.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_simple_vertex_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_texture_fragment_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_texture_vertex_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/raw_warningmessage.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values-v11_values-v11.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values-v14_values-v14.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_advanced_rc_settings.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_app_settings.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_device_filter.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_k9legacybot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_k9usbbot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_maxmodules.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_pushbot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_pushbotsens.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_rev_scoot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/merged/androidTest/debug/xml_squarebot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/symbol-table-with-package/androidTest/debug/package-aware-r.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/symbols/androidTest/debug/R.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/generated/mockable-android-23.v3.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/generated/source/buildConfig/androidTest/debug/com/qualcomm/ftcrobotcontroller/test/BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/generated/source/r/androidTest/debug/com/qualcomm/ftcrobotcontroller/test/R.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/blame/res/androidTest/debug/multi-v2/debug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/blame/res/androidTest/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/blame/res/androidTest/debug/multi-v2/values-v14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/blame/res/androidTest/debug/multi-v2/values-w820dp-v13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/blame/res/androidTest/debug/multi-v2/values.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/blame/res/androidTest/debug/single/debug.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawArcade.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawTank.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawVehicle.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/TriBotTeleOp.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/manifest/androidTest/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/androidTest/debug/output.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/androidTest/debug/resources-debugAndroidTest.ap_" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_button_shape.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_menu.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_icon_robotcontroller.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4_ic_launcher.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable_black_border.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable_button_shape.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable_feedback_shape_orange.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable_icon_menu.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/drawable_icon_robotcontroller.png.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_about.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_blocks.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_config_wifi_direct.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_configure_from_template.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_configuration.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_controller.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_lynx_address_update.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_lynx_fw_update.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_wifi_channel_selector.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_ftc_wifi_remembered_groups.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_generic_settings.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_inspection.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_load.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_program_and_manage.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_programming_mode.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_swap_usb_devices.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_activity_view_logs.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_analog_input_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_analog_inputs.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_analog_output_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_analog_outputs.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_banner_parent.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_button_list.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_color_list_preference_line_item.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_device_interface_module.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_digital_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_digital_device_lynx.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_digital_devices.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_feedback.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_file_info.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_gray_line.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_header.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_i2c_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_i2cs.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_info_button.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_item_list_parent.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_legacy.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_loading_indicator_overlay.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_lynx_module.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_lynx_module_configure_address.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_lynx_module_configure_address_spin_item.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_lynx_usb_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_matrices.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_matrix_devices.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_motor.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_motor_controller_banner.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_motor_list.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_port_attached_row.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_pwm_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_pwms.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_red_line.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_servo.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_servo_controller_banner.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_servo_list.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_simple_device.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/layout_template_info.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/menu_ftc_robot_controller.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/menu_main_menu.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/menu_menu_server.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_chimeconnect.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_chimedisconnect.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_color_fragment_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_cube_mesh_fragment_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_cube_mesh_vertex_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_errormessage.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_nxtstartupsound.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_simple_vertex_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_texture_fragment_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_texture_vertex_shader.glsl.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/raw_warningmessage.wav.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/values-sw720dp-land-v13_values-sw720dp-land-v13.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/values-v11_values-v11.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/values-v14_values-v14.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/values_values.arsc.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_advanced_rc_settings.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_app_settings.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_device_filter.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_k9legacybot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_k9usbbot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_maxmodules.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_pushbot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_pushbotsens.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_rev_scoot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/merged/androidTest/debug/xml_squarebot.xml.flat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/splits-support/androidTest/debug/split-list.gson" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawArcade.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawTank.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawVehicle.dex" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/TriBotTeleOp.dex" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/outputs/aar/FtcRobotController-debug.aar" afterPath="$PROJECT_DIR$/FtcRobotController/build/outputs/aar/FtcRobotController-debug.aar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOpMain.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOpMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOpMain.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOpMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.class" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/classes/debug/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/zip-cache/BKSrquukpk2rIx++AxyJ_fNFhz0=" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/zip-cache/BKSrquukpk2rIx++AxyJ_fNFhz0=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/res/debug/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/12.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/12.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/13.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/13.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/14.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/14.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/15.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/15.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/16.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/16.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOpMain.dex" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOpMain.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.dex" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOpMain.dex" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOpMain.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.dex" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.dex" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexBuilder/debug/17/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/mergeJavaRes/debug/0.jar" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/mergeJavaRes/debug/0.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/outputs/apk/debug/TeamCode-debug.apk" afterPath="$PROJECT_DIR$/TeamCode/build/outputs/apk/debug/TeamCode-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/TeamCode/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOpMain.java" afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOpMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.java" afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOpMain.java" afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOpMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.java" afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.java" afterPath="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,51 +339,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="ClawTeleOpMain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClawTeleOpMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOpMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="33">
-              <caret line="31" column="73" lean-forward="false" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+            <state relative-caret-position="462">
+              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TriBotTeleOp.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TriBotTeleOp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClawTankTeleOpMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="132">
-              <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClawArcadeTeleOpMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOpMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClawVehicleTeleOpMain.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -2771,12 +3033,12 @@
         <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOp.java" />
         <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOp.java" />
         <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TriBotTeleOp.java" />
-        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.java" />
-        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.java" />
         <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TriBotTeleOp/TriBotTeleOp.java" />
+        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.java" />
         <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOpMain.java" />
-        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.java" />
+        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.java" />
         <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOpMain.java" />
+        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.java" />
       </list>
     </option>
   </component>
@@ -2804,10 +3066,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2884,6 +3145,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2891,7 +3153,7 @@
     <property name="android.project.structure.last.selected" value="FtcRobotController" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="device.picker.selection" value="2a28577" />
+    <property name="device.picker.selection" value="10.1.248.12:5555" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -2980,7 +3242,8 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520564211877" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520794301560" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -3027,7 +3290,8 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520564211877" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520794301564" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3059,6 +3323,27 @@
         </option>
         <option name="vmOptions" value="" />
       </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
       <method />
     </configuration>
     <configuration default="true" type="JarApplication" factoryName="JAR Application">
@@ -3187,7 +3472,10 @@
       </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
-      <method />
+      <method>
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1520794301564" />
+      </method>
     </configuration>
     <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Android App.TeamCode" />
@@ -3236,7 +3524,7 @@
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3866" height="2106" extended-state="6" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295516" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4721772" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23720682" sideWeight="0.5018909" order="7" side_tool="false" content_ui="tabs" />
@@ -3244,8 +3532,8 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4721772" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3258,8 +3546,8 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -3365,14 +3653,14 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding />
         </state>
-      </provider>
-      <provider editor-type-id="android-manifest">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Team6188/build.gradle" />
@@ -3402,17 +3690,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/DriveThread.java" />
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/readme.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="-2399">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -3468,49 +3756,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawBotTeleOp.java" />
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawBotArcadeTeleOp.java" />
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/VuforiaTest.java">
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="858">
-          <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="1" lean-forward="false" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="693">
+          <caret line="24" column="9" lean-forward="false" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawArcadeTeleOpMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="68" lean-forward="false" selection-start-line="7" selection-start-column="68" selection-end-line="7" selection-end-column="68" />
+        <state relative-caret-position="858">
+          <caret line="29" column="83" lean-forward="false" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.java">
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawVehicleTeleOpMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        <state relative-caret-position="132">
+          <caret line="7" column="43" lean-forward="false" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTankTeleOpMain.java">
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/VuforiaTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="858">
+          <caret line="44" column="23" lean-forward="false" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawTeleOp/ClawTeleOpMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="31" column="73" lean-forward="false" selection-start-line="31" selection-start-column="73" selection-end-line="31" selection-end-column="73" />
+        <state relative-caret-position="462">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/TriTeleOp/TriBotTeleOp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding />
         </state>
       </provider>

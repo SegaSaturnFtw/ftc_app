@@ -11,26 +11,21 @@ public class ClawTankTeleOpMain extends ClawTeleOpMain
     @Override
     public void loop()
     {
-        leftDrive.setPower((Math.pow(gamepad1.left_stick_y, 2) * (gamepad1.left_stick_y / 2)) * 1.6);
-        rightDrive.setPower((Math.pow(gamepad1.right_stick_y, 2) * (gamepad1.right_stick_y / 2)) * 1.6);
-        armMotor.setPower(((gamepad1.right_trigger) - (gamepad1.left_trigger)) / 4);
+        try
+        {
+            leftDrive.setPower(gamepad2.b ? 0.0 : ((Math.pow(gamepad1.left_stick_y, 2) * (gamepad1.left_stick_y / 2)) * 1.6));
+            rightDrive.setPower(gamepad2.b ? 0.0 : ((Math.pow(gamepad1.right_stick_y, 2) * (gamepad1.right_stick_y / 2)) * 1.6));
+            armMotor.setPower(gamepad2.b ? 0.0 : ((gamepad1.right_trigger) - (gamepad1.left_trigger)) / 4);
+        }
+        catch (Exception ignored)
+        {
+            leftDrive.setPower((Math.pow(gamepad1.left_stick_y, 2) * (gamepad1.left_stick_y / 2)) * 1.6);
+            rightDrive.setPower((Math.pow(gamepad1.right_stick_y, 2) * (gamepad1.right_stick_y / 2)) * 1.6);
+            armMotor.setPower(((gamepad1.right_trigger) - (gamepad1.left_trigger)) / 4);
+        }
 
         try {handServo.setPosition(gamepad1.left_bumper ? handServo.MAX_POSITION : (gamepad1.right_bumper ? handServo.MIN_POSITION : handServo.getPosition()));}
         catch (Exception ignored) {handServo.setPosition(handServo.getPosition());}
-
-        try
-        {
-            if (gamepad2.b)
-            {
-                leftDrive.setPower(0.0);
-                rightDrive.setPower(0.0);
-                armMotor.setPower(0.0);
-            }
-
-            try {handServo.setPosition(gamepad2.left_bumper ? handServo.MAX_POSITION : (gamepad2.right_bumper ? handServo.MIN_POSITION : handServo.getPosition()));}
-            catch (Exception ignored) {handServo.setPosition(handServo.getPosition());}
-        }
-        catch (Exception ignored) {}
 
         telemetry.addData("Joysticks P1:", "Left (%.2f), Right (%.2f)", gamepad1.left_stick_y, gamepad1.right_stick_y);
         telemetry.addData("Motors:", "Left (%.2f), Right (%.2f)", leftDrive.getPower(), rightDrive.getPower());

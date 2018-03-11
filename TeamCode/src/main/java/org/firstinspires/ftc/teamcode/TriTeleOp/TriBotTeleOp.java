@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.Range;
 
-@TeleOp(name="TriBot Iterative V3.4", group="Iterative Opmode")
+@TeleOp(name="TriBot Iterative V3.6", group="Iterative Opmode")
 
 public class TriBotTeleOp extends OpMode
 {
@@ -71,10 +71,6 @@ public class TriBotTeleOp extends OpMode
             left /= max;
         }
 
-        backDrive.setPower(back/2);
-        leftDrive.setPower(left/2);
-        rightDrive.setPower(right/2);
-
         armServo.setPosition(gamepad1.dpad_up ? armServo.MAX_POSITION : (gamepad1.dpad_down ? armServo.MIN_POSITION : armServo.getPosition()));
 
         try
@@ -84,10 +80,20 @@ public class TriBotTeleOp extends OpMode
                 backDrive.setPower(0.0);
                 leftDrive.setPower(0.0);
                 rightDrive.setPower(0.0);
-                armServo.setPosition(armServo.MAX_POSITION);
+            }
+            else
+            {
+                backDrive.setPower(back);
+                leftDrive.setPower(left);
+                rightDrive.setPower(right);
             }
         }
-        catch (Exception ignored) {}
+        catch (Exception ignored)
+        {
+            backDrive.setPower(back);
+            leftDrive.setPower(left);
+            rightDrive.setPower(right);
+        }
 
         telemetry.addData("Status:", "Nom-Nom-Nominal");
         telemetry.addData("Axes:", "Axial(%.2f), Lateral(%.2f), Yaw(%.2f)", axial, lateral, yaw);
