@@ -40,12 +40,12 @@
         "source": "C:\\Users\\furry\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\8cd142999ee2cfd5ddaa4578c531eb0a\\res\\layout\\digital_device_lynx.xml"
     },
     {
-        "merged": "C:\\FTC\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout_feedback.xml.flat",
-        "source": "C:\\Users\\furry\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\29b96e05afb75e39ad31a1684d84398d\\res\\layout\\feedback.xml"
-    },
-    {
         "merged": "C:\\FTC\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout_red_line.xml.flat",
         "source": "C:\\Users\\furry\\.gradle\\caches\\transforms-1\\files-1.1\\FtcCommon-release.aar\\8cd142999ee2cfd5ddaa4578c531eb0a\\res\\layout\\red_line.xml"
+    },
+    {
+        "merged": "C:\\FTC\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout_feedback.xml.flat",
+        "source": "C:\\Users\\furry\\.gradle\\caches\\transforms-1\\files-1.1\\RobotCore-release.aar\\29b96e05afb75e39ad31a1684d84398d\\res\\layout\\feedback.xml"
     },
     {
         "merged": "C:\\FTC\\ftc_app\\TeamCode\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_ic_launcher.png.flat",
