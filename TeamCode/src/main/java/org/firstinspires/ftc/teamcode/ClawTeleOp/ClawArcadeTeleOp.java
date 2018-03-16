@@ -12,15 +12,15 @@ public class ClawArcadeTeleOp extends ClawTeleOpMain
 
         try
         {
-            leftDrive.setPower(gamepad2.b ? 0.0 : ((Math.pow(gamepad1.left_stick_y, 2) * (gamepad1.left_stick_y / 2)) * 1.6));
-            rightDrive.setPower(gamepad2.b ? 0.0 : ((Math.pow(gamepad1.right_stick_y, 2) * (gamepad1.right_stick_y / 2)) * 1.6));
-            armMotor.setPower(gamepad2.b ? 0.0 : ((gamepad1.right_trigger) - (gamepad1.left_trigger)) / 4);
+            leftDrive.setPower(gamepad2.b ? 0.0 : power * (1.0 - (gamepad1.left_stick_x)));
+            rightDrive.setPower(gamepad2.b ? 0.0 : power * (-1.0 - (gamepad1.left_stick_x)));
+            armMotor.setPower(gamepad2.b ? 0.0 : (-gamepad1.right_stick_y)/4);
         }
         catch (Exception ignored)
         {
-            leftDrive.setPower((Math.pow(gamepad1.left_stick_y, 2) * (gamepad1.left_stick_y / 2)) * 1.6);
-            rightDrive.setPower((Math.pow(gamepad1.right_stick_y, 2) * (gamepad1.right_stick_y / 2)) * 1.6);
-            armMotor.setPower(((gamepad1.right_trigger) - (gamepad1.left_trigger)) / 4);
+            leftDrive.setPower(power * (1.0 - (gamepad1.left_stick_x)));
+            rightDrive.setPower(power * (-1.0 - (gamepad1.left_stick_x)));
+            armMotor.setPower((-gamepad1.left_stick_y)/4);
         }
 
         try {handServo.setPosition(gamepad1.left_bumper ? handServo.MAX_POSITION : (gamepad1.right_bumper ? handServo.MIN_POSITION : handServo.getPosition()));}
