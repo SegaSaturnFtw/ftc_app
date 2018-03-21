@@ -18,8 +18,6 @@ public class ClawTeleOpMain extends OpMode
     @Override
     public void init()
     {
-        telemetry.addData("Status:", "Initialized");
-
         leftDrive = hardwareMap.get(DcMotor.class, "leftDrive");
         rightDrive = hardwareMap.get(DcMotor.class, "rightDrive");
         armMotor = hardwareMap.get(DcMotor.class, "armMotor");
