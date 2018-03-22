@@ -19,7 +19,7 @@ public class TriBotTeleOp extends OpMode
         leftDrive = hardwareMap.get(DcMotor.class, "left drive");
         rightDrive = hardwareMap.get(DcMotor.class, "right drive");
         backDrive = hardwareMap.get(DcMotor.class, "back drive");
-        armServo = hardwareMap.get(Servo.class, "claw arm");
+        armServo = hardwareMap.get(Servo.class, "armDrive");
 
         leftDrive.setDirection(DcMotor.Direction.FORWARD);
         rightDrive.setDirection(DcMotor.Direction.FORWARD);
