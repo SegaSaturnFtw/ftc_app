@@ -2,7 +2,7 @@ package org.firstinspires.ftc.teamcode.ClawTeleOp;
 
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
-@TeleOp(name="Science Ring Bot Arcade VMain", group="Iterative OpMode")
+@TeleOp(name="Science Ring Bot Arcade V1.0", group="Iterative OpMode")
 public class ClawArcadeTeleOp extends ClawTeleOpMain
 {
     @Override
