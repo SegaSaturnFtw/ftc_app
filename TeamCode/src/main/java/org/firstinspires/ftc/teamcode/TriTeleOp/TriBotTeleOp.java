@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.Range;
 
-@TeleOp(name="TriBot Iterative V3.6", group="Iterative Opmode")
+@TeleOp(name="TriBot Iterative V3.6", group="Iterative Opmode Tri")
 
 public class TriBotTeleOp extends OpMode
 {
