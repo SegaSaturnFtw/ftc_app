@@ -2,7 +2,7 @@ package org.firstinspires.ftc.teamcode.ClawTeleOp;
 
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 
-@TeleOp(name="Science Ring Bot Tank V1.0", group="Iterative OpMode Claw")
+@TeleOp(name="Science Ring Bot Tank V1.2", group="Iterative OpMode Claw")
 public class ClawTankTeleOp extends ClawTeleOpMain
 {
     @Override
@@ -10,8 +10,8 @@ public class ClawTankTeleOp extends ClawTeleOpMain
     {
         try
         {
-            leftDrive.setPower(gamepad2.b ? 0.0 : ((Math.pow(gamepad1.left_stick_y, 2) * (gamepad1.left_stick_y / 2)) * 1.6));
-            rightDrive.setPower(gamepad2.b ? 0.0 : ((Math.pow(gamepad1.right_stick_y, 2) * (gamepad1.right_stick_y / 2)) * 1.6));
+            leftDrive.setPower(gamepad2.b ? 0.0 : ((Math.pow(gamepad1.left_stick_y, 2) * (gamepad1.left_stick_y / 2)) * 1.2));
+            rightDrive.setPower(gamepad2.b ? 0.0 : ((Math.pow(gamepad1.right_stick_y, 2) * (gamepad1.right_stick_y / 2)) * 1.2));
             armDrive.setPower(gamepad2.b ? 0.0 : ((gamepad1.right_trigger) - (gamepad1.left_trigger)) / 4);
         }
         catch (Exception ignored)

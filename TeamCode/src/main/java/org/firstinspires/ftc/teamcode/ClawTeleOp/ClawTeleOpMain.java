@@ -6,7 +6,7 @@ import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.Servo;
 import com.qualcomm.robotcore.util.ElapsedTime;
 
-@TeleOp(name="Default Claw Tele Op V3.0", group="Iterative OpMode Claw")
+@TeleOp(name="Default Claw Tele Op V3.0", group="Iterative OpMode Default")
 public class ClawTeleOpMain extends OpMode
 {
     private ElapsedTime runtime = new ElapsedTime();
@@ -25,8 +25,8 @@ public class ClawTeleOpMain extends OpMode
         rightDrive.setZeroPowerBehavior(DcMotor.ZeroPowerBehavior.BRAKE);
         armDrive.setZeroPowerBehavior(DcMotor.ZeroPowerBehavior.BRAKE);
 
-        leftDrive.setDirection(DcMotor.Direction.FORWARD);
-        rightDrive.setDirection(DcMotor.Direction.REVERSE);
+        leftDrive.setDirection(DcMotor.Direction.REVERSE);
+        rightDrive.setDirection(DcMotor.Direction.FORWARD);
         armDrive.setDirection(DcMotor.Direction.FORWARD);
         handServo.setDirection(Servo.Direction.FORWARD);
 
