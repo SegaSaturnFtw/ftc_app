@@ -9,8 +9,8 @@ public class ClawArcadeTeleOp extends ClawTeleOpMain
     @Override
     public void loop()
     {
-        double vertical = (((Math.pow(gamepad1.left_stick_y, 2) * (-gamepad1.left_stick_y / 2)) * 1.05));
-        double horizontal = (((Math.pow(gamepad1.left_stick_x, 2) * (-gamepad1.left_stick_x / 2)) * 1.05));
+        double vertical = (((Math.pow(gamepad1.left_stick_y, 2) * (-gamepad1.left_stick_y / 2)) * 0.75));
+        double horizontal = (((Math.pow(gamepad1.left_stick_x, 2) * (-gamepad1.left_stick_x / 2)) * 0.5));
 
         try
         {
