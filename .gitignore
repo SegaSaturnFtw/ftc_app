@@ -3,7 +3,4 @@
 *.gradle
 *.idea
 
-/build/android-profile/profile-2018-04-06-08-12-03-694.json
-/build/android-profile/profile-2018-04-06-08-12-03-694.rawproto
-/build/android-profile/profile-2018-04-06-08-12-11-660.json
-/build/android-profile/profile-2018-04-06-08-12-11-660.rawproto
+build/android-profile/
