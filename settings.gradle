@@ -1,2 +1,6 @@
 include ':FtcRobotController'
+include ':ScienceFair'
+include ':TeamChallenges'
+include ':Team6188'
+include ':TeamTFMS'
 include ':TeamCode'
