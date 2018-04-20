@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: Analytics-release:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Analytics-release.aar/303e2a5ce0327d39b375257b45a2e7b0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/Analytics-release.aar/303e2a5ce0327d39b375257b45a2e7b0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
