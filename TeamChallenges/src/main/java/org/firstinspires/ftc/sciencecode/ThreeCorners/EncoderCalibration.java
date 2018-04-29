@@ -1,14 +1,16 @@
 package org.firstinspires.ftc.sciencecode.ThreeCorners;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
+import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
+@TeleOp(name="Encoder Calib V1.0", group="OpMode")
 public class EncoderCalibration extends OpMode
 {
-    private final double LEFT_RATE = 1.0;
-    private final double RIGHT_RATE = 1.0;
-    private final double TARGET = 1.0;
+    private final double LEFT_RATE = 40.0;
+    private final double RIGHT_RATE = 40.0;
+    private final double TARGET = 100.0;
 
     private DcMotor leftDrive;
     private DcMotor rightDrive;
@@ -34,14 +36,14 @@ public class EncoderCalibration extends OpMode
     {
         leftDrive.setTargetPosition((int) (TARGET * LEFT_RATE));
         rightDrive.setTargetPosition((int) (TARGET * RIGHT_RATE));
+
+        leftDrive.setPower(25);
+        rightDrive.setPower(25);
     }
 
     @Override
     public void loop()
     {
-        leftDrive.setPower(100);
-        rightDrive.setPower(100);
-
         if (leftDrive.getCurrentPosition() > leftDrive.getTargetPosition())
         {
             leftDrive.setPower(0.0);

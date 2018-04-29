@@ -17,8 +17,9 @@ public class ThreeCornersRun extends OpMode
     private DcMotor leftDrive;
     private DcMotor rightDrive;
     private double distance;
-    private final double LEFT_ENCODER_RATE = 1.0;
-    private final double RIGHT_ENCODER_RATE = 1.0;
+
+    private final double LEFT_ENCODER_RATE = 40.0;
+    private final double RIGHT_ENCODER_RATE = 40.0;
 
     private String getThreeColor(NormalizedRGBA color)
     {
@@ -80,15 +81,15 @@ public class ThreeCornersRun extends OpMode
             {
                 case "red":
                     //move left
-                    distance = 60;
+                    distance = 100;
                     telemetry.addData("Moving", "RED");
                 case "blue":
                     //move right
-                    distance = 60;
+                    distance = 100;
                     telemetry.addData("Moving", "BLUE");
                 case "white":
                     //move forward
-                    distance = 85;
+                    distance = 140;
                     telemetry.addData("Moving", "WHITE");
             }
             telemetry.addData("DISTANCE", distance);
