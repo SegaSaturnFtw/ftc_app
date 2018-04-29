@@ -22,7 +22,7 @@ public class ColoredCorners extends OpMode
     @Override
     public void init()
     {
-        colorSensor = hardwareMap.get(NormalizedColorSensor.class, "sensor_color");
+        colorSensor = hardwareMap.get(NormalizedColorSensor.class, "colorSensor");
 
         final int relativeLayoutId = hardwareMap.appContext.getResources().getIdentifier("RelativeLayout", "id", hardwareMap.appContext.getPackageName());
         relativeLayout = ((Activity) hardwareMap.appContext).findViewById(relativeLayoutId);
@@ -42,15 +42,34 @@ public class ColoredCorners extends OpMode
     public void loop()
     {
         // If the button is (now) down, then toggle the light
-        if (gamepad1.x) {
-            if (colorSensor instanceof SwitchableLight) {
-                SwitchableLight light = (SwitchableLight)colorSensor;
-                light.enableLight(!light.isLightOn());
+        try
+        {
+            if (gamepad1.x)
+            {
+                if (colorSensor instanceof SwitchableLight)
+                {
+                    SwitchableLight light = (SwitchableLight) colorSensor;
+                    light.enableLight(!light.isLightOn());
+                }
             }
         }
+        catch (Exception ignored) { }
 
         // Read the sensor
         NormalizedRGBA colors = colorSensor.getNormalizedColors();
+
+        if (colors.red > colors.blue && colors.red > colors.green)
+        {
+            telemetry.addData("Color", "Red");
+        }
+        else if (colors.blue > colors.red && colors.blue > colors.green)
+        {
+            telemetry.addData("Color", "Blue");
+        }
+        else
+        {
+            telemetry.addData("Color", "White");
+        }
 
         Color.colorToHSV(colors.toColor(), hsvValues);
         telemetry.addLine()
