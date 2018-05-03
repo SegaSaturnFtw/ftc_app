@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a6e7b9-20e5-4ad8-9c37-dd973337d9a9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColorCalibration.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
@@ -11,14 +12,336 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" afterPath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/debug/com/qualcomm/ftcrobotcontroller/BuildConfig.java" afterPath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/debug/com/qualcomm/ftcrobotcontroller/BuildConfig.java" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/attr/R.txt" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/attr/R.txt" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugAssets/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merger.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/incremental/packageDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/packaged_res/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/packaged_res/debug/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/packaged_res/debug/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/packaged_res/debug/values-w820dp-v13/values-w820dp-v13.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/packaged_res/debug/values/values.xml" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/packaged_res/debug/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/FtcRobotController/build/intermediates/symbols/debug/R.txt" />
+      <change beforePath="$PROJECT_DIR$/FtcRobotController/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/FtcRobotController/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change beforePath="$PROJECT_DIR$/ScienceFair/ScienceFair.iml" afterPath="$PROJECT_DIR$/ScienceFair/ScienceFair.iml" />
+      <change beforePath="$PROJECT_DIR$/Team6188/Team6188.iml" afterPath="$PROJECT_DIR$/Team6188/Team6188.iml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/TeamChallenges.iml" afterPath="$PROJECT_DIR$/TeamChallenges/TeamChallenges.iml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/generated/source/buildConfig/debug/org/firstinspires/ftc/sciencecode/BuildConfig.java" afterPath="$PROJECT_DIR$/TeamChallenges/build/generated/source/buildConfig/debug/org/firstinspires/ftc/sciencecode/BuildConfig.java" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/generated/source/r/debug/org/firstinspires/ftc/sciencecode/R.java" afterPath="$PROJECT_DIR$/TeamChallenges/build/generated/source/r/debug/org/firstinspires/ftc/sciencecode/R.java" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/Buildings.txt" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/Buildings.txt" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/CzechWolf" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/CzechWolf" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/FtcBlocks.html" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/FtcBlocks.html" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/FtcBlocksProjects.html" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/FtcBlocksProjects.html" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/FtcSounds.html" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/FtcSounds.html" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/RobotConfig.xsd" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/RobotConfig.xsd" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/RobotConfigDescriptionGenerate.xslt" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/RobotConfigDescriptionGenerate.xslt" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/RobotConfigTaxonomy.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/RobotConfigTaxonomy.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/RobotConfigTaxonomy.xsd" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/RobotConfigTaxonomy.xsd" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/LICENSE" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/blockly_compressed.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/blockly_compressed.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/blocks_compressed.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/blocks_compressed.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/javascript_compressed.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/javascript_compressed.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/media/sprites.svg" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/media/sprites.svg" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/msg/messages.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blockly/msg/messages.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/acceleration.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/acceleration.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/acceleration_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/acceleration_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/analog_input.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/analog_input.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/analog_output.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/analog_output.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_accelerometer.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_accelerometer.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_gyroscope.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_gyroscope.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_orientation.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_orientation.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_sound_pool.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_sound_pool.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_text_to_speech.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/android_text_to_speech.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/angular_velocity.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/angular_velocity.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/bno055imu.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/bno055imu.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/bno055imu_parameters.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/bno055imu_parameters.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/clipboard_util.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/clipboard_util.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/color.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/color.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/color_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/color_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/compass_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/compass_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/cr_servo.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/cr_servo.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/dbg_log.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/dbg_log.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/dc_motor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/dc_motor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/digital_channel.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/digital_channel.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/elapsed_time.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/elapsed_time.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/elapsed_time2.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/elapsed_time2.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/gamepad.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/gamepad.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/gyro_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/gyro_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/hardware_util.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/hardware_util.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/ir_seeker_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/ir_seeker_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/led.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/led.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/light_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/light_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/linear_op_mode.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/linear_op_mode.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/lynx_i2c_color_range_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/lynx_i2c_color_range_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/magnetic_flux.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/magnetic_flux.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/matrix_f.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/matrix_f.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/misc.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/misc.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/mr_i2c_compass_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/mr_i2c_compass_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/mr_i2c_range_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/mr_i2c_range_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/navigation.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/navigation.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/open_gl_matrix.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/open_gl_matrix.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/optical_distance_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/optical_distance_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/orientation.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/orientation.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/position.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/position.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/project_util.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/project_util.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/quaternion.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/quaternion.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/range.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/range.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/BasicPOVDrive.blk" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/BasicPOVDrive.blk" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/BasicTankDrive.blk" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/BasicTankDrive.blk" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/ConceptDeviceInteraction.blk" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/ConceptDeviceInteraction.blk" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/ConceptSmoothServo.blk" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/ConceptSmoothServo.blk" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/ConceptVuMarkDetection.blk" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/ConceptVuMarkDetection.blk" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/SensorDigitalTouch.blk" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/SensorDigitalTouch.blk" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/SensorIMU.blk" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/SensorIMU.blk" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/SensorREVColorDistance.blk" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/SensorREVColorDistance.blk" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/default.blk" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/samples/default.blk" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/servo.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/servo.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/servo_controller.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/servo_controller.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/sound_util.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/sound_util.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/system.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/system.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/telemetry.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/telemetry.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/temperature.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/temperature.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/toolbox_util.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/toolbox_util.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/touch_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/touch_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/ultrasonic_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/ultrasonic_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vars.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vars.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vector_f.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vector_f.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/velocity.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/velocity.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/voltage_sensor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/voltage_sensor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_localizer.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_localizer.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_localizer_parameters.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_localizer_parameters.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_trackable.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_trackable.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_trackable_default_listener.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_trackable_default_listener.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_trackables.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/blocks/vuforia_trackables.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/connection.html" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/connection.html" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/FtcBlocks.less" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/FtcBlocks.less" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/FtcBlocksProjects.less" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/FtcBlocksProjects.less" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/FtcSounds.less" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/FtcSounds.less" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/SourceCodePro.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/SourceCodePro.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/base.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/base.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/bootstrap-theme.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/bootstrap-theme.min.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/bootstrap.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/connection.less" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/connection.less" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/core.less" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/core.less" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/font-awesome.min.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/frame.less" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/frame.less" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/manage.less" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/css/manage.less" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/frame.html" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/frame.html" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/help.html" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/help.html" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/angular-resizable.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/angular-resizable.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/jquery.contextmenu.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/jquery.contextmenu.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/main.less" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/main.less" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/perfect-scrollbar.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/perfect-scrollbar.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/tether.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/css/tether.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/editor.html" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/editor.html" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ace.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ace.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/angular-messages.min.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/angular-messages.min.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/angular.min.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/angular.min.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/BufferedTokenStream.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/BufferedTokenStream.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/CharStreams.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/CharStreams.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/CommonTokenFactory.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/CommonTokenFactory.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/CommonTokenStream.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/CommonTokenStream.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/FileStream.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/FileStream.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/InputStream.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/InputStream.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/IntervalSet.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/IntervalSet.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/LL1Analyzer.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/LL1Analyzer.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Lexer.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Lexer.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Parser.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Parser.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/ParserRuleContext.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/ParserRuleContext.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/PredictionContext.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/PredictionContext.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/README.md" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/README.md" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Recognizer.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Recognizer.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/RuleContext.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/RuleContext.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Token.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Token.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Utils.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/Utils.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATN.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATN.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNConfig.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNConfig.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNConfigSet.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNConfigSet.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNDeserializationOptions.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNDeserializationOptions.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNDeserializer.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNDeserializer.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNSimulator.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNSimulator.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNState.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNState.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNType.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ATNType.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/LexerATNSimulator.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/LexerATNSimulator.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/LexerAction.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/LexerAction.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/LexerActionExecutor.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/LexerActionExecutor.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ParserATNSimulator.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/ParserATNSimulator.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/PredictionMode.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/PredictionMode.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/SemanticContext.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/SemanticContext.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/Transition.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/Transition.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/index.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/atn/index.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/dfa/DFA.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/dfa/DFA.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/dfa/DFASerializer.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/dfa/DFASerializer.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/dfa/DFAState.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/dfa/DFAState.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/dfa/index.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/dfa/index.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/DiagnosticErrorListener.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/DiagnosticErrorListener.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/ErrorListener.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/ErrorListener.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/ErrorStrategy.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/ErrorStrategy.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/Errors.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/Errors.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/index.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/error/index.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/index.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/index.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/package.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/package.json" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/polyfills/codepointat.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/polyfills/codepointat.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/polyfills/fromcodepoint.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/polyfills/fromcodepoint.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/tree/Tree.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/tree/Tree.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/tree/Trees.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/tree/Trees.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/tree/index.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/antlr4/tree/index.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/app.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/app.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/es5-shim.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/es5-shim.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/es6-shim.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/es6-shim.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ext-language_tools.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ext-language_tools.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ext-spellcheck.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ext-spellcheck.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ext-whitespace.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ext-whitespace.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/flowtype.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/flowtype.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ftclangtools.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ftclangtools.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/java/JavaLexer.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/java/JavaLexer.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/java/JavaListener.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/java/JavaListener.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/java/JavaParser.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/java/JavaParser.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/java/index.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/java/index.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/jquery.contextmenu.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/jquery.contextmenu.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/jquery.position.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/jquery.position.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/keybinding-emacs.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/keybinding-emacs.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/keybinding-vim.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/keybinding-vim.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/main.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/main.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/mode-java.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/mode-java.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/mode-markdown.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/mode-markdown.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/mode-text.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/mode-text.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/perfect-scrollbar.jquery.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/perfect-scrollbar.jquery.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/polyfills.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/polyfills.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/require.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/require.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/snippets/java.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/snippets/java.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/snippets/markdown.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/snippets/markdown.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/snippets/text.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/snippets/text.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-chaos.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-chaos.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-chrome.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-chrome.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-github.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-github.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-monokai.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-monokai.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-solarized-dark.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-solarized-dark.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-solarized-light.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/theme-solarized-light.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/toe.min.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/toe.min.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ui-ace.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/ui-ace.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/worker-base.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/worker-base.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/worker-java.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/worker-java.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/worker-javascript.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/js/worker-javascript.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/readme.md" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/readme.md" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/BasicOpMode_Iterative" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/BasicOpMode_Iterative" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/BasicOpMode_Linear" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/BasicOpMode_Linear" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/BlankIterativeOpMode" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/BlankIterativeOpMode" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/BlankLinearOpMode" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/BlankLinearOpMode" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptCompassCalibration" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptCompassCalibration" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptDIMAsIndicator" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptDIMAsIndicator" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptI2cAddressChange" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptI2cAddressChange" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptNullOp" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptNullOp" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptRampMotorSpeed" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptRampMotorSpeed" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptRegisterOpModes" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptRegisterOpModes" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptScanServo" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptScanServo" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptTelemetry" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptTelemetry" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptVuMarkIdentification" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptVuMarkIdentification" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptVuforiaNavigation" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/ConceptVuforiaNavigation" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/HardwareK9bot" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/HardwareK9bot" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/HardwarePushbot" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/HardwarePushbot" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/HardwarePushbotMatrix" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/HardwarePushbotMatrix" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/K9botTeleopTank_Linear" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/K9botTeleopTank_Linear" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotAutoDriveByEncoder_Linear" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotAutoDriveByEncoder_Linear" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotAutoDriveByGyro_Linear" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotAutoDriveByGyro_Linear" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotAutoDriveByTime_Linear" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotAutoDriveByTime_Linear" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotAutoDriveToLine_Linear" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotAutoDriveToLine_Linear" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotTeleopPOV_Linear" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotTeleopPOV_Linear" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotTeleopTank_Iterative" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/PushbotTeleopTank_Iterative" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorAdafruitRGB" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorAdafruitRGB" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorBNO055IMU" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorBNO055IMU" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorBNO055IMUCalibration" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorBNO055IMUCalibration" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorColor" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorColor" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorDIO" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorDIO" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorDigitalTouch" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorDigitalTouch" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorHTColor" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorHTColor" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorHTGyro" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorHTGyro" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorKLNavxMicro" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorKLNavxMicro" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorLEGOLight" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorLEGOLight" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorLEGOTouch" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorLEGOTouch" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRColor" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRColor" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRCompass" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRCompass" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRGyro" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRGyro" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRIrSeeker" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRIrSeeker" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMROpticalDistance" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMROpticalDistance" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRRangeSensor" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorMRRangeSensor" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorREVColorDistance" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorREVColorDistance" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorREVLaserDistance" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/SensorREVLaserDistance" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/TemplateOpMode_Iterative" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/TemplateOpMode_Iterative" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/TemplateOpMode_Linear" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/java/templates/TemplateOpMode_Linear" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/URI.min.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/URI.min.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/bootstrap.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/jquery-3.1.1.min.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/jquery-3.1.1.min.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/less.min.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/less.min.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/npm.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/npm.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/util.js" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/js/util.js" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/manage.html" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/manage.html" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_accelerometer.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_accelerometer.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_gyroscope.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_gyroscope.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_orientation.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_orientation.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_sound_pool.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_sound_pool.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_text_to_speech.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/android_text_to_speech.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/bno055imu_parameters.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/bno055imu_parameters.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/color.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/color.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/dbg_log.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/dbg_log.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/elapsed_time.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/elapsed_time.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/gamepad.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/gamepad.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/images.css" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/images.css" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/linear_op_mode.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/linear_op_mode.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/misc.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/navigation.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/navigation.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/range.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/range.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/telemetry.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/assets/debug/toolbox/telemetry.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/debug.json" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values-v11.json" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values-v14.json" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/multi-v2/values.json" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/blame/res/debug/single/debug.json" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/classes/debug/org/firstinspires/ftc/sciencecode/ThreeCorners/ColoredCorners$1.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/classes/debug/org/firstinspires/ftc/sciencecode/ThreeCorners/ColoredCorners.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/classes/debug/org/firstinspires/ftc/sciencecode/ThreeCorners/EncoderCalibration.class" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/classes/debug/org/firstinspires/ftc/sciencecode/ThreeCorners/EncoderCalibration.class" />
       <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/classes/debug/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.class" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/classes/debug/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.class" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
       <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/symbols/debug/R.txt" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexBuilder/debug/13/org/firstinspires/ftc/sciencecode/ThreeCorners/ColoredCorners$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexBuilder/debug/13/org/firstinspires/ftc/sciencecode/ThreeCorners/ColoredCorners.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexBuilder/debug/13/org/firstinspires/ftc/sciencecode/ThreeCorners/EncoderCalibration.dex" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexBuilder/debug/13/org/firstinspires/ftc/sciencecode/ThreeCorners/EncoderCalibration.dex" />
       <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexBuilder/debug/13/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.dex" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexBuilder/debug/13/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.dex" />
       <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexMerger/debug/__content__.json" />
       <change beforePath="$PROJECT_DIR$/TeamChallenges/build/outputs/apk/debug/TeamChallenges-debug.apk" afterPath="$PROJECT_DIR$/TeamChallenges/build/outputs/apk/debug/TeamChallenges-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/EncoderCalibration.java" afterPath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/EncoderCalibration.java" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/TeamChallenges/build/outputs/logs/manifest-merger-debug-report.txt" />
+      <change beforePath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColoredCorners.java" afterPath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColorScreen.java" />
       <change beforePath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java" afterPath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java" />
+      <change beforePath="$PROJECT_DIR$/TeamTFMS/TeamTFMS.iml" afterPath="$PROJECT_DIR$/TeamTFMS/TeamTFMS.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,8 +381,8 @@
       <file leaf-file-name="ThreeCornersRun.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+            <state relative-caret-position="396">
+              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -67,14 +390,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EncoderCalibration.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/EncoderCalibration.java">
+      <file leaf-file-name="ColorCalibration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColorCalibration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="792">
+              <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="44" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -5491,15 +5812,16 @@
         <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCorners.java" />
         <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColoredCorners.java" />
         <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/EncoderCalibration.java" />
+        <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColorScreen.java" />
+        <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColorCalibration.java" />
         <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-13" />
-    <option name="y" value="-13" />
-    <option name="width" value="3866" />
-    <option name="height" value="2106" />
+    <option name="x" value="-11" />
+    <option name="width" value="3005" />
+    <option name="height" value="2091" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -5544,16 +5866,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scratches" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
-            <path>
-              <item name="ftc_app" type="1abcf292:AndroidViewProjectNode" />
-              <item name="ScienceFair" type="feadf853:AndroidModuleNode" />
-            </path>
             <path>
               <item name="ftc_app" type="1abcf292:AndroidViewProjectNode" />
               <item name="TeamChallenges" type="feadf853:AndroidModuleNode" />
@@ -5576,15 +5895,10 @@
               <item name="sciencecode" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="ThreeCorners" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ftc_app" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -5592,8 +5906,8 @@
     <property name="android.project.structure.last.selected" value="FtcRobotController" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
-    <property name="device.picker.selection" value="10.1.248.25:5555" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1525026844881" />
+    <property name="device.picker.selection" value="10.1.250.123:5555" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1525386998087" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -6199,7 +6513,6 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawBotTeleOp.java" />
     <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawBotTeleOp.java" />
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawBotTeleOp.java" />
     <entry file="file://$PROJECT_DIR$/ScienceFair/src/main/java/org/firstinspires/ftc/sciencecode/readme.md" />
     <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/readme.md">
       <provider selected="true" editor-type-id="text-editor">
@@ -6323,7 +6636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6331,19 +6643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColoredCorners.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="70" column="48" lean-forward="false" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#3949#4052#0" expanded="false" />
-            <element signature="e#4051#4052#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -6351,7 +6650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-124">
           <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -6407,18 +6705,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/EncoderCalibration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
+        <state relative-caret-position="239">
           <caret line="11" column="40" lean-forward="false" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColorCalibration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="44" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ColorScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2046">
+          <caret line="70" column="48" lean-forward="false" selection-start-line="70" selection-start-column="48" selection-end-line="70" selection-end-column="48" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="21" column="48" lean-forward="false" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
+        <state relative-caret-position="396">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

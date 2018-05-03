@@ -10,7 +10,7 @@ import com.qualcomm.robotcore.hardware.SwitchableLight;
 
 import java.util.Objects;
 
-@TeleOp(name="Three Corners Runner V1.2", group="Corners TeleOp")
+@TeleOp(name="Three Corners Runner V2.0", group="Corners TeleOp")
 public class ThreeCornersRun extends OpMode
 {
     private NormalizedColorSensor colorSensor;
@@ -21,21 +21,22 @@ public class ThreeCornersRun extends OpMode
     private final double LEFT_ENCODER_RATE = 40.0;
     private final double RIGHT_ENCODER_RATE = 40.0;
 
-    private String getThreeColor(NormalizedRGBA color)
+    private String getThreeColor(NormalizedRGBA colors)
     {
-        if (color.red > 0.02 && color.blue > 0.02)
+
+        if (colors.red > 0.01 && colors.blue > 0.01 && colors.green > 0.01)
         {
             return "white";
         }
-        else if (color.red > color.green && color.red > color.blue)
+        else if (colors.red > colors.green && colors.red > colors.blue)
         {
             return "red";
         }
-        else if (color.blue > color.green && color.blue > color.red)
+        else if (colors.blue > colors.green && colors.blue > colors.red)
         {
             return "blue";
         }
-        return null;
+        return "white";
     }
 
     @Override
@@ -49,7 +50,7 @@ public class ThreeCornersRun extends OpMode
         rightDrive.setZeroPowerBehavior(DcMotor.ZeroPowerBehavior.BRAKE);
 
         leftDrive.setDirection(DcMotorSimple.Direction.FORWARD);
-        rightDrive.setDirection(DcMotorSimple.Direction.FORWARD);
+        rightDrive.setDirection(DcMotorSimple.Direction.REVERSE);
 
         leftDrive.setMode(DcMotor.RunMode.RUN_USING_ENCODER);
         rightDrive.setMode(DcMotor.RunMode.RUN_USING_ENCODER);
@@ -70,44 +71,46 @@ public class ThreeCornersRun extends OpMode
     }
 
     @Override
+    public void start()
+    {
+        NormalizedRGBA colors = colorSensor.getNormalizedColors();
+
+        telemetry.addData("COLOR", this.getThreeColor(colors));
+        switch (Objects.requireNonNull(this.getThreeColor(colors)))
+        {
+            case "red":
+                //move left
+                distance = 2000;
+                telemetry.addData("Moving", "RED");
+            case "blue":
+                //move right
+                distance = 2000;
+                telemetry.addData("Moving", "BLUE");
+            case "white":
+                //move forward
+                distance = 3000;
+                telemetry.addData("Moving", "WHITE");
+        }
+
+        leftDrive.setTargetPosition((int) distance + leftDrive.getCurrentPosition());
+        rightDrive.setTargetPosition((int) distance + rightDrive.getCurrentPosition());
+
+        leftDrive.setMode(DcMotor.RunMode.RUN_TO_POSITION);
+        rightDrive.setMode(DcMotor.RunMode.RUN_TO_POSITION);
+
+        leftDrive.setPower(1);
+        rightDrive.setPower(1);
+
+        telemetry.update();
+    }
+
+    @Override
     public void loop()
     {
         NormalizedRGBA colors = colorSensor.getNormalizedColors();
 
-        if (distance == 0.0)
-        {
-            telemetry.addData("COLOR", this.getThreeColor(colors));
-            switch (Objects.requireNonNull(this.getThreeColor(colors)))
-            {
-                case "red":
-                    //move left
-                    distance = 100;
-                    telemetry.addData("Moving", "RED");
-                case "blue":
-                    //move right
-                    distance = 100;
-                    telemetry.addData("Moving", "BLUE");
-                case "white":
-                    //move forward
-                    distance = 140;
-                    telemetry.addData("Moving", "WHITE");
-            }
-            telemetry.addData("DISTANCE", distance);
-            telemetry.update();
-
-
-            leftDrive.setTargetPosition((int) (distance * LEFT_ENCODER_RATE));
-            leftDrive.setTargetPosition((int) (distance * RIGHT_ENCODER_RATE));
-
-            leftDrive.setPower(100);
-            rightDrive.setPower(100);
-            leftDrive.setMode(DcMotor.RunMode.RUN_TO_POSITION);
-            rightDrive.setMode(DcMotor.RunMode.RUN_TO_POSITION);
-        }
-
         telemetry.addData("Target Pos:", distance);
-        telemetry.addData("Target Motor:", (int) (distance * (LEFT_ENCODER_RATE + RIGHT_ENCODER_RATE) / 2));
-        telemetry.addData("Distance Left:", (distance - (int)(distance * (LEFT_ENCODER_RATE + RIGHT_ENCODER_RATE) / 2)));
+        telemetry.addData("Target Enc:", "R:" + distance * RIGHT_ENCODER_RATE + "\nL:" + distance * LEFT_ENCODER_RATE);
 
         telemetry.update();
     }
