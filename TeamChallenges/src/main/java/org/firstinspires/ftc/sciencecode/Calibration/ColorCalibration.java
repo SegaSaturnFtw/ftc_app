@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.sciencecode.ThreeCorners;
+package org.firstinspires.ftc.sciencecode.Calibration;
 
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
@@ -10,7 +10,7 @@ import com.qualcomm.robotcore.hardware.SwitchableLight;
 
 import java.util.Objects;
 
-@TeleOp(name="Color Calibration V1.4", group="Corners TeleOp")
+@TeleOp(name="Color Calibration V1.4", group="Calibration")
 public class ColorCalibration extends OpMode
 {
     private NormalizedColorSensor colorSensor;

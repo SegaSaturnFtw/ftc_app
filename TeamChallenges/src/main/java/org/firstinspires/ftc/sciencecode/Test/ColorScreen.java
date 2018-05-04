@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.sciencecode.ThreeCorners;
+package org.firstinspires.ftc.sciencecode.Test;
 
 import android.app.Activity;
 import android.graphics.Color;
@@ -10,7 +10,7 @@ import com.qualcomm.robotcore.hardware.NormalizedColorSensor;
 import com.qualcomm.robotcore.hardware.NormalizedRGBA;
 import com.qualcomm.robotcore.hardware.SwitchableLight;
 
-@TeleOp(name="Color Sensor Test V1.0", group="Autonomous")
+@TeleOp(name="Color Screen Test V1.0", group="Screen")
 public class ColorScreen extends OpMode
 {
     private NormalizedColorSensor colorSensor;

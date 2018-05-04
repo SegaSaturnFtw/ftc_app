@@ -1,5 +1,6 @@
 package org.firstinspires.ftc.sciencecode.ThreeCorners;
 
+import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
@@ -10,7 +11,7 @@ import com.qualcomm.robotcore.hardware.SwitchableLight;
 
 import java.util.Objects;
 
-@TeleOp(name="Three Corners Runner V2.0", group="Corners TeleOp")
+@Autonomous(name="Challenge Colors Runner V2.0", group="Corners Auto")
 public class ThreeCornersRun extends OpMode
 {
     private NormalizedColorSensor colorSensor;
