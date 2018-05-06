@@ -1,11 +1,13 @@
 package org.firstinspires.ftc.sciencecode.Calibration;
 
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
 import com.qualcomm.robotcore.hardware.DcMotorSimple;
 
 @TeleOp(name="Encoder Calib V1.0", group="Calibration")
+@Disabled
 public class EncoderCalibration extends OpMode
 {
     private final double LEFT_RATE = 40.0;
