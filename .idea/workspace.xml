@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20a6e7b9-20e5-4ad8-9c37-dd973337d9a9" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersV2.java" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/javaCompile/classAnalysis.bin" />
@@ -10,82 +11,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/ScienceFair.iml" afterPath="$PROJECT_DIR$/ScienceFair/ScienceFair.iml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/generated/source/buildConfig/debug/org/firstinspires/ftc/sciencecode/BuildConfig.java" afterPath="$PROJECT_DIR$/ScienceFair/build/generated/source/buildConfig/debug/org/firstinspires/ftc/sciencecode/BuildConfig.java" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/generated/source/r/debug/org/firstinspires/ftc/sciencecode/R.java" afterPath="$PROJECT_DIR$/ScienceFair/build/generated/source/r/debug/org/firstinspires/ftc/sciencecode/R.java" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values-v11.json" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values-v14.json" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/ScienceFair/build/intermediates/symbols/debug/R.txt" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/ScienceFair/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="$PROJECT_DIR$/Team6188/Team6188.iml" afterPath="$PROJECT_DIR$/Team6188/Team6188.iml" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/generated/source/buildConfig/debug/org/firstinspires/ftc/teamcode/BuildConfig.java" afterPath="$PROJECT_DIR$/Team6188/build/generated/source/buildConfig/debug/org/firstinspires/ftc/teamcode/BuildConfig.java" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/org/firstinspires/ftc/teamcode/R.java" afterPath="$PROJECT_DIR$/Team6188/build/generated/source/r/debug/org/firstinspires/ftc/teamcode/R.java" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-v11.json" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-v14.json" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/Team6188/build/intermediates/symbols/debug/R.txt" />
-      <change beforePath="$PROJECT_DIR$/Team6188/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/Team6188/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/classes/debug/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.class" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/classes/debug/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.class" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
       <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexBuilder/debug/13/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.dex" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexBuilder/debug/13/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.dex" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" afterPath="$PROJECT_DIR$/TeamChallenges/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/build/outputs/apk/debug/TeamChallenges-debug.apk" afterPath="$PROJECT_DIR$/TeamChallenges/build/outputs/apk/debug/TeamChallenges-debug.apk" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/Calibration/ColorCalibration.java" afterPath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/Calibration/ColorCalibration.java" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/Calibration/EncoderCalibration.java" afterPath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/Calibration/EncoderCalibration.java" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/Test/ColorScreen.java" afterPath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/Test/ColorScreen.java" />
       <change beforePath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java" afterPath="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/generated/source/buildConfig/debug/org/firstinspires/ftc/teamcode/BuildConfig.java" afterPath="$PROJECT_DIR$/TeamTFMS/build/generated/source/buildConfig/debug/org/firstinspires/ftc/teamcode/BuildConfig.java" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/generated/source/r/debug/org/firstinspires/ftc/teamcode/R.java" afterPath="$PROJECT_DIR$/TeamTFMS/build/generated/source/r/debug/org/firstinspires/ftc/teamcode/R.java" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values-sw720dp-land-v13.json" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values-v11.json" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values-v11.json" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values-v14.json" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values-v14.json" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-land-v13/values-sw720dp-land-v13.xml" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/TeamTFMS/build/intermediates/symbols/debug/R.txt" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/TeamTFMS/build/outputs/logs/manifest-merger-debug-report.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -122,14 +52,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file leaf-file-name="ThreeCornersRun.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ThreeCornersRun.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1262">
-              <caret line="114" column="9" lean-forward="true" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
+            <state relative-caret-position="-1914">
+              <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreeCornersV2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersV2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="924">
+              <caret line="100" column="28" lean-forward="false" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SensorMRGyro.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRGyro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1774">
+              <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -5500,7 +5452,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/BasicOpModeIterative.java" />
         <option value="$PROJECT_DIR$/TeamCode/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/Team6188/src/main/java/org/firstinspires/ftc/team6188/readme.md" />
         <option value="$PROJECT_DIR$/Team6188/src/main/java/org/firstinspires/ftc/team6188/ExampleIterativeDrive.java" />
@@ -5551,6 +5502,7 @@
         <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/Test/ColorScreen.java" />
         <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/Calibration/EncoderCalibration.java" />
         <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java" />
+        <option value="$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersV2.java" />
       </list>
     </option>
   </component>
@@ -5603,10 +5555,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -5630,20 +5582,6 @@
               <item name="TeamChallenges" type="feadf853:AndroidModuleNode" />
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="sciencecode" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="Calibration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ftc_app" type="1abcf292:AndroidViewProjectNode" />
-              <item name="TeamChallenges" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="sciencecode" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="Test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ftc_app" type="1abcf292:AndroidViewProjectNode" />
-              <item name="TeamChallenges" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="sciencecode" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="ThreeCorners" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -5657,8 +5595,8 @@
     <property name="android.project.structure.last.selected" value="FtcRobotController" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
-    <property name="device.picker.selection" value="10.1.248.17:5555" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1525629191081" />
+    <property name="device.picker.selection" value="10.1.250.232:5555" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1525989959949" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -6217,6 +6155,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-13" y="-13" width="3866" height="2106" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295516" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -6262,8 +6201,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawBotTeleOp.java" />
-    <entry file="file://$PROJECT_DIR$/TeamCode/src/main/java/org/firstinspires/ftc/teamcode/ClawBotTeleOp.java" />
     <entry file="file://$PROJECT_DIR$/ScienceFair/src/main/java/org/firstinspires/ftc/sciencecode/readme.md" />
     <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/readme.md">
       <provider selected="true" editor-type-id="text-editor">
@@ -6469,10 +6406,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/FtcRobotController/src/main/java/org/firstinspires/ftc/robotcontroller/external/samples/SensorMRGyro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1774">
+          <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersRun.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1262">
-          <caret line="114" column="9" lean-forward="true" selection-start-line="114" selection-start-column="9" selection-end-line="114" selection-end-column="9" />
+        <state relative-caret-position="-1914">
+          <caret line="15" column="9" lean-forward="false" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TeamChallenges/src/main/java/org/firstinspires/ftc/sciencecode/ThreeCorners/ThreeCornersV2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="100" column="28" lean-forward="false" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

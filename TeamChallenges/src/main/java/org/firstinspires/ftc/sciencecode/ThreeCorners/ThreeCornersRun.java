@@ -1,6 +1,7 @@
 package org.firstinspires.ftc.sciencecode.ThreeCorners;
 
 import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
+import com.qualcomm.robotcore.eventloop.opmode.Disabled;
 import com.qualcomm.robotcore.eventloop.opmode.OpMode;
 import com.qualcomm.robotcore.eventloop.opmode.TeleOp;
 import com.qualcomm.robotcore.hardware.DcMotor;
@@ -11,7 +12,8 @@ import com.qualcomm.robotcore.hardware.SwitchableLight;
 
 import java.util.Objects;
 
-@Autonomous(name="Challenge Colors Runner V3.2", group="Corners Auto")
+@Autonomous(name="Challenge Colors Runner V3.4", group="Corners Auto")
+@Disabled
 public class ThreeCornersRun extends OpMode
 {
     private NormalizedColorSensor colorSensor;
@@ -22,7 +24,7 @@ public class ThreeCornersRun extends OpMode
     private final double LEFT_ENCODER_RATE = 100.0;
     private final double RIGHT_ENCODER_RATE = 100.0;
 
-    private final double TURN_RATE = 8.205;
+    private final double TURN_RATE = 5.0;
 
     private String getThreeColor(NormalizedRGBA colors)
     {
@@ -55,8 +57,12 @@ public class ThreeCornersRun extends OpMode
         leftDrive.setDirection(DcMotorSimple.Direction.REVERSE);
         rightDrive.setDirection(DcMotorSimple.Direction.FORWARD);
 
+        leftDrive.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
+        rightDrive.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
+
         leftDrive.setMode(DcMotor.RunMode.RUN_USING_ENCODER);
         rightDrive.setMode(DcMotor.RunMode.RUN_USING_ENCODER);
+
 
         distance = 0.0;
 
@@ -103,6 +109,12 @@ public class ThreeCornersRun extends OpMode
     public void loop()
     {
         if (leftDrive.getCurrentPosition() == leftDrive.getTargetPosition())
+        {
+            leftDrive.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
+            rightDrive.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
+        }
+
+        if (leftDrive.getMode().equals(DcMotor.RunMode.STOP_AND_RESET_ENCODER))
         {
             leftDrive.setTargetPosition((int)((distance * LEFT_ENCODER_RATE) + leftDrive.getCurrentPosition()));
             rightDrive.setTargetPosition((int)((distance * RIGHT_ENCODER_RATE) + rightDrive.getCurrentPosition()));
