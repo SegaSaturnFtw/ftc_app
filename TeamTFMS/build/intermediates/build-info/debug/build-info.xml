@@ -2,85 +2,48 @@
 <instant-run
     abi="armeabi-v7a,armeabi"
     api-level="23"
-    build-mode="FULL"
+    build-mode="COLD"
     density="xhdpi"
     format="10"
     plugin-version="3.1.1"
-    timestamp="1525302576606"
+    timestamp="1526510127992"
     token="-7285203682926489171"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="875" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="711" />
+        duration="0" />
     <task
         name="verifier"
-        duration="702" />
-
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_1.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_5.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_6.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\instant-run-apk\debug\TeamTFMS-debug.apk"
-        type="SPLIT_MAIN" />
+        duration="0" />
 
     <build
         build-mode="FULL"
-        timestamp="1525302576606"
+        timestamp="1526509308511"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\dep\dependencies.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
         <artifact
             location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_1.apk"
+            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\instant-run-apk\debug\TeamTFMS-debug.apk"
+            type="SPLIT_MAIN" />
+        <artifact
+            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
             location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_5.apk"
@@ -92,14 +55,30 @@
             location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_8.apk"
+            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
-            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        ir-eligibility="CLASS_ANNOTATION_CHANGE"
+        timestamp="1526509514848"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\FTC\ftc_app\TeamTFMS\build\intermediates\instant-run-apk\debug\TeamTFMS-debug.apk"
             type="SPLIT_MAIN" />
     </build>
+    <build
+        build-mode="COLD"
+        timestamp="1526510127992"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
