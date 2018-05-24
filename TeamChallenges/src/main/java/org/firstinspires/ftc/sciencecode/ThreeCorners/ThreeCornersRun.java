@@ -13,7 +13,6 @@ import com.qualcomm.robotcore.hardware.SwitchableLight;
 import java.util.Objects;
 
 @Autonomous(name="Challenge Colors Runner V3.4", group="Corners Auto")
-@Disabled
 public class ThreeCornersRun extends OpMode
 {
     private NormalizedColorSensor colorSensor;

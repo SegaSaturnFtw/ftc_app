@@ -12,7 +12,6 @@ import com.qualcomm.robotcore.hardware.SwitchableLight;
 import java.util.Objects;
 
 @TeleOp(name="Color Calibration V1.4", group="Calibration")
-@Disabled
 public class ColorCalibration extends OpMode
 {
     private NormalizedColorSensor colorSensor;
