@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed May 16 15:00:06 PDT 2018
+#Wed May 30 15:39:52 PDT 2018
 20.base=C\:\\FTC\\ftc_app\\TeamTFMS\\build\\intermediates\\assets\\debug
 143.base=C\:\\FTC\\ftc_app\\TeamTFMS\\build\\intermediates\\assets\\debug
 237.path=java/templates/SensorBNO055IMUCalibration
