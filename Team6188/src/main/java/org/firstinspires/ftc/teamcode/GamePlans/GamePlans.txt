@@ -1,0 +1,25 @@
+Scoring:
+	Autonomous:
+		Land - 30
+		Knock Gold (Randomized) - 25
+		Claim - 15
+		Crater - 10
+		
+	Play:
+		Alliance Depot - 2 per mineral
+		Silver Cargo - 5 per
+		Gold Cargo - 5 per
+		
+	End Game:
+		Partial Crater - 15
+		Complete Crater - 25
+		Deployed - 50
+
+		
+Robot Essentials:
+	Claim the alliance depot - easiest
+	Place minerals into the correct cargo hold
+	Deploy and re-grab the lander - best long term
+	
+Robot Planning:
+	Claiming the alliance depot
