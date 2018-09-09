@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20a6e7b9-20e5-4ad8-9c37-dd973337d9a9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" afterPath="$PROJECT_DIR$/FtcRobotController/FtcRobotController.iml" />
-      <change beforePath="$PROJECT_DIR$/ScienceFair/ScienceFair.iml" afterPath="$PROJECT_DIR$/ScienceFair/ScienceFair.iml" />
-      <change beforePath="$PROJECT_DIR$/Team6188/Team6188.iml" afterPath="$PROJECT_DIR$/Team6188/Team6188.iml" />
-      <change beforePath="$PROJECT_DIR$/TeamChallenges/TeamChallenges.iml" afterPath="$PROJECT_DIR$/TeamChallenges/TeamChallenges.iml" />
-      <change beforePath="$PROJECT_DIR$/TeamTFMS/TeamTFMS.iml" afterPath="$PROJECT_DIR$/TeamTFMS/TeamTFMS.iml" />
-    </list>
+    <list default="true" id="20a6e7b9-20e5-4ad8-9c37-dd973337d9a9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -5982,7 +5974,7 @@
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="settings.editor.selected.configurable" value="preferences.general" />
     <property name="device.picker.selection" value="ZY223TJ5JH" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536510890488" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536512363670" />
     <property name="SearchEverywhereHistoryKey" value="wifi adb&#9;ACTION&#9;null" />
   </component>
   <component name="RecentsManager">
